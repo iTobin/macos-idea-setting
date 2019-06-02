@@ -1,0 +1,1 @@
+# macos-idea-setting
