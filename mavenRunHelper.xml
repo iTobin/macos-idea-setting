@@ -35,9 +35,6 @@
               <option name="commandLine" value="clean install" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="install -p dev" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="install -P dev" />
             </Goal>
           </list>
