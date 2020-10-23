@@ -37,6 +37,9 @@
             <Goal>
               <option name="commandLine" value="install -P dev" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="install -P test" />
+            </Goal>
           </list>
         </option>
       </Goals>
