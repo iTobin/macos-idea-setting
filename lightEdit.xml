@@ -10,7 +10,6 @@
         <option value="*.sh" />
         <option value="*.txt" />
         <option value="*.xml" />
-        <option value="*.yml" />
       </list>
     </option>
   </component>
