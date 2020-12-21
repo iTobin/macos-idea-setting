@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '~/WorkSpaces/y9boot-v9.3.x/risenet-y9boot-support-sms/src/main/java/net/risesoft/controller/EmailController.java [risenet-y9boot-support-sms]'" />
+    <option name="defaultScopeName" value="File '~/WorkSpaces/y9boot-v9.3.x/risenet-y9boot-support-sms/src/main/java/net/risesoft/controller/EmailController.java [risenet-y9boot-support-sms]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '~/WorkSpaces/y9boot-v9.3.x/risenet-y9boot-support-sms/src/main/java/net/risesoft/controller/EmailController.java [risenet-y9boot-support-sms]'" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
