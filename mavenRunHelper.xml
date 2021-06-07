@@ -43,6 +43,9 @@
             <Goal>
               <option name="commandLine" value="clean install -P prod" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -P test" />
+            </Goal>
           </list>
         </option>
       </Goals>
